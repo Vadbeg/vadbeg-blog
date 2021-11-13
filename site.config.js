@@ -14,7 +14,7 @@ module.exports = {
   // open graph metadata (optional)
   description: 'Vadbeg\'s blog',
   socialImageTitle: 'Title',
-  socialImageSubtitle: 'Nice to see you here! 👋',
+  socialImageSubtitle: 'Nice to see you here 👋!',
 
   // social usernames (optional)
   github: 'Vadbeg',
